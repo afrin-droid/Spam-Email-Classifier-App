@@ -1,2 +1,2 @@
 ## Live Demo
-https://app-link.streamlit.app
+https://afrin-droid-spam-email-classifier-app-link.streamlit.app
