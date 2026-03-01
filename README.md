@@ -1,2 +1,2 @@
 ## Live Demo
-https://your-app-link.streamlit.app
+https://app-link.streamlit.app
